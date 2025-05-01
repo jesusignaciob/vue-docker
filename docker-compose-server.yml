@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  app:
+    image: <image_uri>
+    ports:
+      - "80:80"
